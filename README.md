@@ -1,4 +1,4 @@
-# Joy Caption Alpha Two 2.1 - Updated & Improved by Angry Hamster
+# Joy Caption Alpha Two 3.1 - Updated & Improved by Angry Hamster
 
 This version is not the 4bit. It's the full GPU edited version, fine-tuned for full GPU performance, enhancing captions quality and generation speed!
 
@@ -44,3 +44,4 @@ Once files are downloaded, run the `.bat` file and happy captioning!
 
 This is a download and RUN version. There are no requirements to install! Just unzip it on your computer, and run the `.bat` file.
 "# joy2.1.2_AngryHamster" 
+"# joy3_AngryHamster" 
