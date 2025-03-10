@@ -51,7 +51,4 @@ This is a dependency required by PyTorch that might be missing on some systems.
 ## Usage
 
 Once files are downloaded, run the `.bat` file and happy captioning!
-
-This is a download and RUN version. There are no requirements to install! Just unzip it on your computer, and run the `.bat` file.
-"# joy2.1.2_AngryHamster" 
-"# joy3_AngryHamster" 
+ 
