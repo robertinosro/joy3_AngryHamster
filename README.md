@@ -1,19 +1,14 @@
----
-Download the file from G drive
-https://drive.google.com/file/d/1hCvXQa7uLYSM5yePImYJpsVx76cderK3/view?usp=sharing
-
-
 Joy Caption Alpha Two 2.1 Updated & Improved by Angry Hamster
 
-This version is not the 4bit. It's the full GPU edited version . 
+This version is not the 4bit. It's the full GPU edited version .
 
 It is fine tuned for full GPU performance
 
 enhancing captions quality and generation speed!
 
-I am not taking credit for building this from scratch. I only improved this as 
+I am not taking credit for building this from scratch. I only improved this as
 
-many been having issues with it ( from installing to lack of options), so i 
+many been having issues with it ( from installing to lack of options), so i
 
 edited this and made it more accessible to everyone.
 
@@ -37,10 +32,27 @@ Added custom Camera Angles option. Now you can insert directly inside the genera
 
 The full list with description can be also found inside the ress folder
 
-Added: save edited caption ( it will overwrite the already generated capotion inside the images directory where it was initially saved )
+Added: save edited caption ( it will overwrite the already generated caption inside the images directory where it was initially saved )
 
 Full working version, no need to install anything!
 
+You only need to download the base model files
+
+Download ip adapter from here :
+https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two/tree/main/cgrkzexw-599808
+and place it inside folder cgrkzexw-599808\image_adapter.pt
+
+download text model :
+https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two/tree/main/cgrkzexw-599808/text_model
+and place inside folder cgrkzexw-599808\text_model\adapter_model.safetensors
+
+and finally clip model :
+https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two/tree/main/cgrkzexw-599808
+
+place inside folder cgrkzexw-599808\clip_model.pt
+
+Once files downloaded runt the .bat file and Happy captioning!
+
 This is a download and RUN version. There are no requirements to install!
 
-Just unzip it on your computer, and run the .bat file"# joy2.1.2_AngryHamster" 
+Just unzip it on your computer, and run the .bat file"# joy2.1.2_AngryHamster""# joy2.1_AngryHamster" 
