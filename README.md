@@ -38,6 +38,16 @@ Full working version, no need to install anything! You only need to download the
    cgrkzexw-599808\clip_model.pt
    ```
 
+## Troubleshooting
+
+If you encounter the error `ModuleNotFoundError: No module named 'typing_extensions'`, please run this command in your command prompt or terminal:
+
+```
+pip install typing_extensions
+```
+
+This is a dependency required by PyTorch that might be missing on some systems.
+
 ## Usage
 
 Once files are downloaded, run the `.bat` file and happy captioning!
