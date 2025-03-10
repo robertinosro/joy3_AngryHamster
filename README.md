@@ -1,4 +1,8 @@
 ---
+Download the file from G drive
+https://drive.google.com/file/d/1hCvXQa7uLYSM5yePImYJpsVx76cderK3/view?usp=sharing
+
+
 Joy Caption Alpha Two 2.1 Updated & Improved by Angry Hamster
 
 This version is not the 4bit. It's the full GPU edited version . 
