@@ -1,0 +1,62 @@
+Camera Angles:
+ 
+
+1. Eye-Level Shot:- Position the camera at the character's eye level.
+
+2. Low Angle Shot:- Place the camera below eye level, looking up.
+
+3. High Angle Shot:- Set the camera above eye level, looking down.
+
+4. Bird's Eye View:- Position the camera directly above the scene.
+
+5. Dutch Angle (Tilt):- Tilt the camera to the side, creating a diagonal composition.
+
+6. Over-the-Shoulder Shot:- Have the camera look over the shoulder of one character at another.
+
+7. Point-of-View (POV) Shot:- Represent the exact viewpoint of a character.
+
+8. Wide Shot (Full Shot):- Capture the entire subject within the frame.
+
+9. Medium Shot:- Frame the subject from the waist up.
+
+10. Close-Up:- Focus on a specific part of the subject, such as the face.
+
+11. Extreme Close-Up:- Zoom in on a very small detail, like an eye or a hand.
+
+12. Two-Shot:- Frame two characters in the same shot.
+ 
+13. Establishing Shot:- Typically a wide or extreme wide shot at the beginning of a scene.
+
+14. Rear Shot:- Camera positioned directly behind the subject, showing the back of the head/body and what's in front of them.
+
+15. Rear Three-Quarter Shot:- Camera positioned behind and slightly to the side of the subject, showing their back and partial profile.
+
+16. Rear Wide Shot:- Camera positioned behind the subject but zoomed out to include the wider environment.
+
+17. Rear High Angle:- Camera positioned behind and above the subject, looking down at their back and the scene in front of them.
+
+18. Rear Low Angle:- Camera positioned behind and below the subject, looking up at their back and what's above them.
+
+19. Follow Shot:- Camera moves behind the subject, tracking them as they move forward.
+
+20. Over-the-Head Shot:- Camera positioned directly above and behind the subject's head, looking at what they're looking at.
+
+21. Dolly Zoom (Vertigo Effect):- Camera physically moves backward while zooming in (or vice versa), creating a disorienting effect.
+
+22. Worm's Eye View:- Extreme low angle looking straight up.
+
+23. Aerial Shot:- Taken from an aircraft or drone, showing a scene from far above.
+
+24. Reverse Shot:- Showing the opposite viewpoint of the previous shot (often used in conversations).
+
+25. Cowboy Shot:- Framing a subject from mid-thigh to above the head (named for its use in Western films).
+
+26. Knee Shot:- Framing a subject from the knees up.
+
+27. Master Shot:- A single shot that covers an entire scene from beginning to end.
+
+28. Whip Pan:- Quick, blurring pan from one subject to another.
+
+29. Tracking Shot:- Camera moves alongside the subject as they move.
+
+30. Steadicam Shot:- Smooth moving shot achieved with a stabilizing device.
