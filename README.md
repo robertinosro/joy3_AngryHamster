@@ -38,23 +38,6 @@ Full working version, no need to install anything! You only need to download the
    cgrkzexw-599808\clip_model.pt
    ```
 
-### Automated Installer (New!)
-
-If you're experiencing installation issues or prefer an automated setup, you can use the new installer:
-
-1. Go to the [installer folder](./installer/) in this repository
-2. Download the entire folder
-3. Run `installer.bat` by double-clicking it
-4. Follow the on-screen instructions
-
-The automated installer will:
-- Check and install Python if needed
-- Install all required Python packages
-- Download necessary model files automatically
-- Set up the correct directory structure
-
-This is recommended for users who are experiencing issues with the manual installation process.
-
 ## Troubleshooting
 
 If you encounter the error `ModuleNotFoundError: No module named 'typing_extensions'`, please run this command in your command prompt or terminal:
